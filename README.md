@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Alberto+BRT.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
 
 ### Technologies and tools:
 
@@ -19,7 +19,6 @@
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/albertobrt">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=albertobrt&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertobrt&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
     
