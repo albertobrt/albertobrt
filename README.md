@@ -32,7 +32,6 @@
 
 <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=albertobrt&theme=one_dark_pro"/>
 
-    
 ### Contact
 
 <div> 
