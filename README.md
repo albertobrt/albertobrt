@@ -25,11 +25,12 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/albertobrt">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=albertobrt&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albertobrt&show_icons=true&locale=en&theme=one_dark_pro" alt="albertobrt" /></p>
   </a>
 </div>
 
 <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=albertobrt&theme=one_dark_pro"/>
+
 
 ### Contact
 
