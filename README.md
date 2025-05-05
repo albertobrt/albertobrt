@@ -39,19 +39,5 @@
   <a href="mailto:albertolbembe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- Badge étoiles GitHub -->
-![GitHub stars](https://img.shields.io/github/stars/albertobrt/albertobrt)
-
-<!-- Dernier commit -->
-![Last commit](https://img.shields.io/github/last-commit/albertobrt/albertobrt)
-
-<!-- Licence -->
-![License](https://img.shields.io/github/license/albertobrt/albertobrt)
-
-<!-- Langage principal -->
-![Top Lang](https://img.shields.io/github/languages/top/albertobrt/albertobrt)
-
-<!-- Build GitHub Actions -->
-![Build](https://github.com/albertobrt/albertobrt/actions/workflows/main.yml/badge.svg)
 
 
